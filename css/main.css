@@ -7,7 +7,8 @@ body {
 .quote {
 	border: 1px solid #111;
 	font-family:      Serif;
-	background-color: #334;
+	background-color: #444;
+	padding:          1em;
 }
 
 div.content {
@@ -20,6 +21,5 @@ div.footer {
 	font-size:        9pt;
 	text-align:       center;
 	width:            80%;
-	margin-left:      10%
-	margin-right:     10%
+	margin-left:      10%;
 }
