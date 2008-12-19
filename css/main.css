@@ -1,0 +1,15 @@
+body {
+	background-color: #333;
+	color:            #DDE;
+	font-family:      Sans-Serif;
+}
+
+div.content {
+	margin-left:  30%;
+	margin-right: 20%;
+}
+
+div.footer {
+	background-color: #444;
+	font-size:        9pt;
+}
