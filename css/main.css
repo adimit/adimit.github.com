@@ -24,6 +24,7 @@ div.content {
 }
 
 div.leftbar {
+	margin-left:  0.5em;
 	float:        left;
 	width:        20%;
 }
