@@ -8,6 +8,7 @@ body {
 
 div.header {
 	margin:           2em;
+	width:            100%;
 }
 
 .quote {
@@ -20,6 +21,11 @@ div.header {
 div.content {
 	margin-left:  30%;
 	margin-right: 20%;
+}
+
+div.leftbar {
+	float:        left;
+	width:        20%;
 }
 
 div.footer {
