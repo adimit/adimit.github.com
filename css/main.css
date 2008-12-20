@@ -29,6 +29,21 @@ div.leftbar {
 	width:        20%;
 }
 
+a {
+	color: #AAE;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: white;
+}
+
+a:visited {
+	color: #EAE;
+	text-decoration: none;
+}
+
 div.footer {
 	background-color: #444;
 	font-size:        9pt;
