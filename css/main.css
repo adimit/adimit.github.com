@@ -6,6 +6,10 @@ body {
 	padding:          0px;
 }
 
+div.header {
+	margin:           2em;
+}
+
 .quote {
 	border: 1px solid #111;
 	font-family:      Serif;
